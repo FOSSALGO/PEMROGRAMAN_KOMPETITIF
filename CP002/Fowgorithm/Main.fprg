@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value="FOSALGO"/>
+        <attribute name="authors" value="Sugiarto Cokrowibowo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-12 10:44:30 PM"/>
+        <attribute name="created" value="QVNVUztMQVBUT1AtSFVGN0VJU0U7MjAyMy0wMS0xMjsxMDoyMzowMCBQTTsyNjYy"/>
+        <attribute name="edited" value="QVNVUztMQVBUT1AtSFVGN0VJU0U7MjAyMy0wMS0xMjsxMDo0NDozMCBQTTsxOzI3NzY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n, i" type="Integer" array="False" size=""/>
+            <input variable="n"/>
+            <for variable="i" start="1" end="n" direction="inc" step="1">
+                <output expression="&quot;MAAF&quot;" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
