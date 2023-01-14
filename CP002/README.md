@@ -1,1 +1,13 @@
-# URL VIDEO: https://youtu.be/X114otciMCU
+URL VIDEO: https://youtu.be/X114otciMCU
+
+#PROGRAM 1000 X MAAF
+Buatlah program untuk menuliskan kata maaf sebanyak n kali. input program berupa bilangan bulat n. selanjutnya program akan menampilkan string MAAF sebanyak n baris.
+contoh input output
+input:
+5
+output:
+MAAF
+MAAF
+MAAF
+MAAF
+MAAF
