@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-15 12:19:10 AM"/>
+        <attribute name="created" value="QVNVUztMQVBUT1AtSFVGN0VJU0U7MjAyMy0wMS0xNDswNzoyOTowMiBQTTsyNjc4"/>
+        <attribute name="edited" value="QVNVUztMQVBUT1AtSFVGN0VJU0U7MjAyMy0wMS0xNTsxMjoxOToxMCBBTTsyOzI3Njc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <output expression="&quot;FOR TO&quot;" newline="True"/>
+            <for variable="i" start="-7" end="18" direction="inc" step="3">
+                <output expression="i&amp;&quot; &quot;" newline="False"/>
+            </for>
+            <output expression="&quot;&quot;" newline="True"/>
+            <output expression="&quot;FOR DOWN TO&quot;" newline="True"/>
+            <for variable="i" start="13" end="2" direction="dec" step="1">
+                <output expression="i&amp;&quot; &quot;" newline="False"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
