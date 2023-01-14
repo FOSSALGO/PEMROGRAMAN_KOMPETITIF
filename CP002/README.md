@@ -5,7 +5,7 @@ Buatlah program untuk menuliskan kata maaf sebanyak n kali. input program berupa
 contoh input output<br>
 input:<br>
 5<br>
-output:<br><br>
+output:<br>
 MAAF<br>
 MAAF<br>
 MAAF<br>
