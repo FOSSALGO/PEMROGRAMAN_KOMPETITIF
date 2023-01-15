@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value="Fosalgo"/>
+        <attribute name="authors" value="Sugiarto Cokrowibowo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-15 06:11:08 PM"/>
+        <attribute name="created" value="QVNVUztMQVBUT1AtSFVGN0VJU0U7MjAyMy0wMS0xNTswNDo0Mjo1MCBQTTsyNjc0"/>
+        <attribute name="edited" value="QVNVUztMQVBUT1AtSFVGN0VJU0U7MjAyMy0wMS0xNTswNjoxMTowOCBQTTsxOzI3ODM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, n, sn" type="Integer" array="False" size=""/>
+            <input variable="n"/>
+            <assign variable="sn" expression="0"/>
+            <for variable="i" start="1" end="n" direction="inc" step="1">
+                <assign variable="sn" expression="sn + i"/>
+                <if expression="i&gt;1">
+                    <then>
+                        <output expression="&quot; + &quot;" newline="False"/>
+                    </then>
+                    <else/>
+                </if>
+                <output expression="i" newline="False"/>
+            </for>
+            <output expression="&quot; = &quot;&amp;sn" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
