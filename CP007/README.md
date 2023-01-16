@@ -1,5 +1,5 @@
 URL VIDEO: https://youtu.be/y7vvbUCV9ag <br>
-#Dimana Kita Bisa Belajar C++ 
+# Dimana Kita Bisa Belajar C++ 
 Sebenarnya ada banyak tempat dan cara untuk belajar Pemrograman C++
 berikut ini salah 7 nya
 1. https://cplusplus.com/doc/tutorial/
