@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value="Fosalgo"/>
+        <attribute name="authors" value="Sugiarto Cokrowibowo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-16 10:00:46 PM"/>
+        <attribute name="created" value="QVNVUztMQVBUT1AtSFVGN0VJU0U7MjAyMy0wMS0xNjswODoxOTo0MCBQTTsyNjgy"/>
+        <attribute name="edited" value="QVNVUztMQVBUT1AtSFVGN0VJU0U7MjAyMy0wMS0xNjsxMDowMDo0NiBQTTsxOzI3Nzk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <input variable="b"/>
+            <if expression="a&lt;b">
+                <then>
+                    <output expression="&quot;MIN = &quot;&amp;a" newline="True"/>
+                    <output expression="&quot;MAX = &quot;&amp;b" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;MIN = &quot;&amp;b" newline="True"/>
+                    <output expression="&quot;MAX = &quot;&amp;a" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
