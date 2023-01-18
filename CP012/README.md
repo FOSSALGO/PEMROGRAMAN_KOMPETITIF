@@ -16,3 +16,10 @@ double: The double data type is a double-precision 64-bit IEEE 754 floating poin
 boolean: The boolean data type has only two possible values: true and false. Use this data type for simple flags that track true/false conditions. This data type represents one bit of information, but its "size" isn't something that's precisely defined. <br><br>
 
 char: The char data type is a single 16-bit Unicode character. It has a minimum value of '\u0000' (or 0) and a maximum value of '\uffff' (or 65,535 inclusive). <br><br>
+
+# REFERENSI
+1. https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html <br>
+2. https://www.w3schools.com/java/java_data_types.asp <br>
+3. https://www.javatpoint.com/java-data-types <br>
+4. https://www.geeksforgeeks.org/data-types-in-java/ <br>
+5. https://www.programiz.com/java-programming/variables-primitive-data-types <br>
