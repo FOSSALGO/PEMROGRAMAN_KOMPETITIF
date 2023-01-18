@@ -1,25 +1,25 @@
 URL VIDEO: https://youtu.be/T5KMCC2ZKhA
 # TIPE DATA di BAHASA PEMROGRAMAN C++
-char
-char16_t
-char32_t
-wchar_t
-signed char
-signed short int
-signed int
-signed long int
-signed long long int
-unsigned char
-unsigned short int
-unsigned int
-unsigned long int
-unsigned long long int
-float
-double
-long double
-bool
-void
-decltype(nullptr)
+char <br>
+char16_t <br>
+char32_t <br>
+wchar_t <br>
+signed char <br>
+signed short int <br>
+signed int <br>
+signed long int <br>
+signed long long int <br>
+unsigned char <br>
+unsigned short int <br>
+unsigned int <br>
+unsigned long int <br>
+unsigned long long int <br>
+float <br>
+double <br>
+long double <br>
+bool <br>
+void <br>
+decltype(nullptr) <br>
 
 # REFERENSI
 1. https://cplusplus.com/doc/tutorial/variables/ <br>
