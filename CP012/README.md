@@ -1,6 +1,16 @@
 URL VIDEO: https://youtu.be/fZastQ5Zrl4
 
 # TIPE DATA PRIMITIF DI JAVA
+
+1. byte
+2. short
+3. int
+4. long
+5. float
+6. double
+7. boolean
+8. char
+<br>
 byte: The byte data type is an 8-bit signed two's complement integer. It has a minimum value of -128 and a maximum value of 127 (inclusive). The byte data type can be useful for saving memory in large arrays, where the memory savings actually matters. They can also be used in place of int where their limits help to clarify your code; the fact that a variable's range is limited can serve as a form of documentation. <br><br>
 
 short: The short data type is a 16-bit signed two's complement integer. It has a minimum value of -32,768 and a maximum value of 32,767 (inclusive). As with byte, the same guidelines apply: you can use a short to save memory in large arrays, in situations where the memory savings actually matters. <br><br>
