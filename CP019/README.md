@@ -1,4 +1,4 @@
-URL VIDEO:
+URL VIDEO: https://youtu.be/SYNJGdqltuE
 
 # PATTERN (POLA)
 
