@@ -1,4 +1,3 @@
-package fosalgo;
 import java.util.Scanner;
 public class Sigma02 {
     public static void main(String[] args) {
