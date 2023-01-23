@@ -1,6 +1,5 @@
-package fosalgo;
 import java.util.Scanner;
-public class Sigma {
+public class Sigma01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
